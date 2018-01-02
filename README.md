@@ -1,6 +1,6 @@
 # raidinfo from Dawi DC-7210 RAID SATA2
 
-Diese Scripte dienen dem Anzapfen des "SteelVine Manager for Windows".
+Diese Scripte dienen dem Anzapfen des "SteelVine Manager for Windows" (dawicontrol).
 Das Dawi DC-7210 ist ein Hardware Raid-System für SATA, ich habe das System mit drei Platten als RAID 1 (Mirroring – Spiegelung) im Wechselplattengehäuse laufen. 
 Dabei sind immer zwei Platten im System. Die drei Platten werden durch getauscht. Dadurch ist auf der entfernten Platte immer das Backup zum Zeitpunkt des Entfernens drauf.
 Jede Platte kann man auch alleine an einem anderen Rechner anschließen und auslesen. 

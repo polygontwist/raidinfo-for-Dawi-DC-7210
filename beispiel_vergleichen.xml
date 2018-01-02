@@ -1,0 +1,24 @@
+<SVConfigCmd eResult='0' ExecInfo='' RebuildPolicy='2'>
+<SVSystem name='108, 111, 99, 97, 108, 104, 111, 115, 116' Modified='0' NeedsPassword='1'>
+	<SVBox id='2' SerialNumber='48, 55, 48, 51, 50, 51, 53' DeviceType='1' HowChanged='1' cRebuildCommandID='0' HasLM87='0' IsPMAware='1' MicrocodeVersion0='49, 46, 52, 48, 51' MicrocodeVersion1='49, 46, 52, 48, 51' ICRevisionNum='82, 105, 103, 101, 108' BoxRebuildStatus='86, 101, 114, 105, 102, 121' DiscoveryTime='77, 111, 32, 49, 46, 32, 74, 97, 110, 32, 49, 52, 58, 53, 50, 58, 50, 50, 32, 50, 48, 49, 56' Temperature='0' SystemFanSpeedOK='1' PowerSupplyFanSpeedOK='1' bSyncSafeVolData='0' acGPIO='6' Modified='0' ConfigPin='131'>
+		<SVPhysDrive id='0' SerialNumber='83, 48, 72, 86, 74, 49, 83, 80, 51, 48, 50, 53, 48, 57, 32, 32, 32, 32, 32, 32' ExpectedSerialNumber='83, 48, 72, 86, 74, 49, 83, 80, 51, 48, 50, 53, 48, 57, 32, 32, 32, 32, 32, 32' ModelName='83, 65, 77, 83, 85, 78, 71, 32, 72, 68, 52, 48, 49, 76, 74, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32' ExpectedModelName='83, 65, 77, 83, 85, 78, 71, 32, 72, 68, 52, 48, 49, 76, 74, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32' PluggedIn='1' ReadyForAction='1' Capacity='781422768' ActualCapacity='781422768' MaxPartitions='2' Capacity_hex='0x2e9390b0' Capacity_GB='372.611' ActualCapacity_hex='0x2e9390b0' ActualCapacity_GB='372.611' Modified='0'>
+
+			<SVPhysPartition StartLBA='0' EndLBA='781422767' Capacity='781422768' StartLBA_GB='0' EndLBA_GB='372.611' Capacity_GB='372.611' StartLBA_hex='0x0' EndLBA_hex='0x2e9390af' Capacity_hex='0x2e9390b0' Status='0' RebuildProgress='0' Modified='0' LogicalVolumeID='0' PartialVolumeID='0'/>
+		</SVPhysDrive>
+
+		<SVPhysDrive id='1' SerialNumber='83, 48, 72, 86, 74, 49, 83, 80, 51, 48, 50, 53, 49, 56, 32, 32, 32, 32, 32, 32' ExpectedSerialNumber='83, 48, 72, 86, 74, 49, 83, 80, 51, 48, 50, 53, 49, 56, 32, 32, 32, 32, 32, 32' ModelName='83, 65, 77, 83, 85, 78, 71, 32, 72, 68, 52, 48, 49, 76, 74, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32' ExpectedModelName='83, 65, 77, 83, 85, 78, 71, 32, 72, 68, 52, 48, 49, 76, 74, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32, 32' PluggedIn='1' ReadyForAction='1' Capacity='781422768' ActualCapacity='781422768' MaxPartitions='2' Capacity_hex='0x2e9390b0' Capacity_GB='372.611' ActualCapacity_hex='0x2e9390b0' ActualCapacity_GB='372.611' Modified='0'>
+
+			<SVPhysPartition StartLBA='0' EndLBA='781422767' Capacity='781422768' StartLBA_GB='0' EndLBA_GB='372.611' Capacity_GB='372.611' StartLBA_hex='0x0' EndLBA_hex='0x2e9390af' Capacity_hex='0x2e9390b0' Status='2' RebuildProgress='2.49298' Modified='0' LogicalVolumeID='0' PartialVolumeID='0'/>
+		</SVPhysDrive>
+
+		<SVLogicalVolume id='0' Modified='0'>
+			<SVPartialVolume id='0' mode='2' StartLBA='0' EndLBA='781422767' FriendlyMode='82, 65, 73, 68, 49, 47, 83, 97, 102, 101, 47, 77, 105, 114, 114, 111, 114' StartLBA_hex='0x0' EndLBA_hex='0x2e9390af' StartLBA_GB='0' EndLBA_GB='372.611' Capacity_GB='372.611' Modified='0'>
+				<PP  PVPosn='0' DriveId='0' StartLBA='0' StartLBA_hex='0x0' StartLBA_GB='0'/>
+				<PP  PVPosn='1' DriveId='1' StartLBA='0' StartLBA_hex='0x0' StartLBA_GB='0'/>
+			</SVPartialVolume>
+
+		</SVLogicalVolume>
+
+	</SVBox>
+</SVSystem>
+</SVConfigCmd>
